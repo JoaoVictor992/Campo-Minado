@@ -15,11 +15,17 @@ Visualizar animações de vitória (confetes dourados) ou derrota (emojis de car
 
  Funcionalidades
 ✔️ Seleção de dificuldade
+
 ✔️ Geração aleatória de bombas
+
 ✔️ Contagem de números adjacentes
+
 ✔️ Sistema de bandeiras
+
 ✔️ Animação com confetes dourados ao vencer
+
 ❌ Animação com carinhas tristes ao perder
+
 ✔️ Botão de jogar novamente após o término
 
 Tecnologias usadas:
