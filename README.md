@@ -10,7 +10,7 @@ Marcar bandeiras em possíveis bombas
 
 Revelar células com números ou bombas
 
-Visualizar animações de vitória (confetes dourados) ou derrota (emojis de carinhas tristes) para uma experiência divertida.
+Visualizar animações de vitória (confetes dourados) ou derrota (emojis de carinhas tristes, infelizmente não conseguir fazer pegar) para uma experiência divertida.
 
  Funcionalidades:
  
