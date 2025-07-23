@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Campo Minado</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" href="bomba.png" type="image/png">
+
+</head>
+
+<body>
+    <h1>Campo Minado</h1>
+    <table id="tabela">
+
+    </table>
+    <div>
+        <label>Dificuldade:</label>
+        <select id="dificuldade">
+            <option value="0" selected>Fácil</option>
+            <option value="1">Médio</option>
+            <option value="2">Difícil</option>
+        </select><br><br>
+        <button id="botaoJogar" class="neon-button" onclick="mostrarTabela()">Jogar</button>
+<button id="jogarNovamente" class="neon-button" style="display: none;" onclick="reiniciarJogo()">Jogar Novamente</button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+
+
+
+<!---
+
+<footer>
+ <p>  &copy;Todos os direitos reservados, João Victor "Pandazera2" Moura da Silva</p>
+
+</footer>
+
+--->
+
+
+</html>
