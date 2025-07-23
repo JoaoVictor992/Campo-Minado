@@ -4,7 +4,6 @@ Sobre o projeto
 Projeto de Campo Minado desenvolvido com HTML, CSS e JavaScript puro como prática de lógica de programação, manipulação de DOM e eventos.
 
 O jogo permite:
-
 Escolher níveis de dificuldade (Fácil, Intermediário e Difícil)
 
 Marcar bandeiras em possíveis bombas
@@ -13,7 +12,8 @@ Revelar células com números ou bombas
 
 Visualizar animações de vitória (confetes dourados) ou derrota (emojis de carinhas tristes) para uma experiência divertida.
 
- Funcionalidades
+ Funcionalidades:
+ 
 ✔️ Seleção de dificuldade
 
 ✔️ Geração aleatória de bombas
